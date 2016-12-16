@@ -1,3 +1,0 @@
-class FibonacciController < ApplicationController
-	
-end

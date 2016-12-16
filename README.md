@@ -1,24 +1,6 @@
-# README
+# API Rails 5
+Recebe um POST com paramêtro chamado quantidade
+# 
+O retorno deve ser o resultado fibonacci da quantidade,
+Exemplo: se quantidade passar for 3 deverá retornar os 3 primeiros números da escala fibonacci
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
