@@ -11,7 +11,6 @@ class FibonacciSequencesController < ApplicationController
     render json: @fibonacci_sequence
   end
 
-
   private   
     def set_fibonacci_sequence      
       @fibonacci_sequence = FibonacciSequence.new.fibonacci_by_quantidade(params[:quantidade].to_i)
